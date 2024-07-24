@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+ *{
+
+    font-family: "Open Sans", sans-serif;
+
+
+ }
+ .search-box{
+    width: 300px;
+    border: none;
+    height: 40PX;
+    
+    }
+
+
+.bgcolor{
+background-color: #062e88;
+}
+
+.inpits{
+    border: none; 
+    outline: none; 
+    background: none; 
+   
+}
+
+
+.inpits{
+    border: none; 
+    outline: none; 
+    background: none; 
+
+ 
+}
+.inpits::placeholder {
+    color: #3f66be; /* Change to whatever color you prefer */
+}
+/* navbar */
+
+
+
+
+
+
+
+
+.text-clor{
+color: #6c99ff;
+white-space: pre-line;
+font-size: 14px ;
+font-style: normal;
+font-weight: 400px;
+line-height: px;
+
+}
+
+       
+     
+.sammal-button{
+margin-top: -590px;
+margin-left: -19px;
+border-radius: 0px 10px 0px 10px ;
+background-color:  #56cb82;
+border: none;
+font-size: 12PX;
+font-weight: 500;
+
+
+}
+.sammal-button-2{
+    margin-top: -580px;
+    margin-left: -210px;
+    border-radius: 0px 10px 0px 10px ;
+    background-color:  #e85b40;
+    border: none;
+    font-size: 12PX;
+    font-weight: 500;
+
+}
+.bahnsjhan {
+background-color: #15a9e7;
+border: none;
+
+}
+.fst-radio{
+font-size: 22px;
+margin-left: 600px;
+}
+.scnt-radio{
+margin-right:680px ;
+font-size: 22px;
+
+}
+.fst-radio:hover{
+cursor: pointer;
+
+}
+.green{
+color: #82ff44;
+font-size:20px ;
+font-weight:400px ;
+font-size: 17px ;
+font-weight: 800px;
+line-height: 21px;
+font-style: normal;
+}
+.float{
+text-align: right;
+
+}
+
+.perawili{
+width:500% ;
+height: ;
+
+
+
+}
+.divtwo{
+background-color: #062E87;
+}
+.readmore {
+    text-align: center;
+}
+.latest-posts .card {
+    margin-bottom: 20px;
+}
+.latest-posts .card img {
+    height: 200px;
+    object-fit: cover;
+/* FOOTER */
+}
+.logos{
+color: #15a9e7;   
+}
+.logos:hover{
+color: #07035a;
+}
+
+.button{
+    margin-left:-92px;
+}
+/* styles.css */
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.faq-section {
+    margin-top: 30px;
+}
+
+details {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+summary .icon {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+details[open] summary .icon {
+    transform: rotate(45deg);
+}
+
+details p {
+    margin: 10px 0;
+}
+
+.respnsiv{
+    background-color: #343a40; 
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.search-box {
+    padding-left: 20px; 
+}
+.button {
+    white-space: nowrap;
+}
